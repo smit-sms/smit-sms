@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Smit Shah<br></h1>
   <p align="center">
-      <a href="https://twitter.px;com/Smitsms16">
+      <a href="https://twitter.com/Smitsms16">
         <img align="center" alt="Smit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://linkedin.com/in/smit-m-shah">
