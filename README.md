@@ -24,7 +24,7 @@
 
 ### More about me...
 
-- 🔭 I’m currently working on Tensorflow, Keras, CNN, Node.js, Express.js, MongoDB 💻.
+- 🔭 I’m currently working on Tensorflow and Machine Learning 💻.
 - 🌱 I’m currently learning Machine Learning and Deep Learning 🚀.
 - 📫 How to reach me: [smit16@somaiya.edu](mailto:smit16@somaiya.edu) | [LinkedIn](https://linkedin.com/in/smit-m-shah) | [Twitter](https://twitter.com/Smitsms16) | [Portfolio](https://smit-sms.github.io/)
 - 💻 I have worked on Python, Tensorflow, Flask, HTML/CSS, Javascript, PHP, NodeJS, ExpressJS, MySQL, MongoDB, Git, etc.
