@@ -13,15 +13,7 @@
   
 ### Glad to see you here! 🤩
 
-<p align="center">
-  <samp>
-    I'm a dedicated, hardworking & team spirited information technology student 👨🏻‍💻. Quick at learning & mastering new technologies 🚀, love working in both team & self-directed settings. I love to explore new technologies and leverage them to solve real-life problems ✨.
-  </samp>
-</p>
-
-<img align="right" height="200" width="375" alt="" src="https://github.com/smit-sms/smit-sms/blob/master/img.svg" />
-
-### More about me...
+### About me...
 
 - 🔭 I’m currently working on Tensorflow and Machine Learning 💻.
 - 🌱 I’m currently learning Machine Learning and Deep Learning 🚀.
