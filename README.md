@@ -10,8 +10,6 @@
         <img align="center" alt="Smit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
       </a>
  	</p>
-  
-### Glad to see you here! 🤩
 
 ### About me...
 
@@ -23,4 +21,3 @@
 - ⚡ Fun fact: NaN is not equal to anything. Not even to itself!
 
 <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
-
