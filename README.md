@@ -10,7 +10,6 @@
         <img align="center" alt="Smit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
       </a>
  	</p>
-
 ### About me...
 
 - 🔭 I’m currently working on Tensorflow and Machine Learning 💻.
