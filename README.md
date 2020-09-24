@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Smit Shah<br></h1>
+<h1 align="center">Hi there 👋<br></h1>
   <p align="center">
       <a href="https://twitter.com/Smitsms16">
         <img align="center" alt="Smit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
