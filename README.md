@@ -13,9 +13,9 @@
   
 ### About me...
 
-- 🔭 I’m currently working on Tensorflow and Machine Learning 💻.
+- 🔭 I’m currently working on Data Science and Machine Learning 💻.
 - 🌱 I’m currently learning Machine Learning and Deep Learning 🚀.
-- 📫 How to reach me: [smit16@somaiya.edu](mailto:smit16@somaiya.edu) | [LinkedIn](https://linkedin.com/in/smit-m-shah) | [Twitter](https://twitter.com/Smitsms16) | [Portfolio](https://smit-sms.github.io/)
+- 📫 How to reach me: [smit16@somaiya.edu](mailto:smit16@somaiya.edu) | [LinkedIn](https://linkedin.com/in/smit-m-shah) | [Twitter](https://twitter.com/Smitsms16) | [Portfolio](https://smit-shah.vercel.app/)
 - 💻 I have worked on Python, Tensorflow, Flask, HTML/CSS, Js, PHP, NodeJS, ExpressJS, MySQL, MongoDB, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: NaN is not equal to anything. Not even to itself!
